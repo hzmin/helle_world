@@ -1,2 +1,5 @@
 # helle_world
-just anonther repository
+
+hi everyone!
+  
+   my name is hzmin,Nice to meet to your!
